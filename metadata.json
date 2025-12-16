@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur de Trading Sportif (0-0 vs Under 0.5)",
+  "description": "Un outil mathématique pour calculer les mises de couverture (hedging) entre le Lay 0-0 et le Back Under 0.5 à la mi-temps, assurant un remboursement en cas de 0-0 et un profit en cas de but.",
+  "requestFramePermissions": []
+}
