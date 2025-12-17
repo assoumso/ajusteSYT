@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calculator, Settings, Info, RefreshCw, Trash2 } from 'lucide-react';
+import { Calculator, Settings, Info, Trash2 } from 'lucide-react';
 import { InputCard } from './components/InputCard';
 import { ResultsSection } from './components/ResultsSection';
 import { calculateStakes } from './utils';
